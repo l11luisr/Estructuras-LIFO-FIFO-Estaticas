@@ -6,12 +6,15 @@
 						     PRÁCTICA #1
 
 Nombre: Rodríguez Muñoz José Luis
+
 Práctica: Estructuras LIFO y FIFO Estáticas
+
 Fecha: 04 / 07 / 2020
 
 Competencia: Aplicar los conceptos básicos de las estructuras LIFO y FIFO.
 
 Actividad:
+
     Escribe un programa que implemente las operaciones básicas y complementarias tanto de colas estáticas como de pilas estáticas.
     El programa debe mostrar el siguiente menú de opciones:
 
