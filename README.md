@@ -3,7 +3,7 @@
 				      FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
 					   ALGORITMOS Y ESTRUCTURA DE DATOS
                                                      2020 - 1
-						     PRÁCTICA #1
+						    PRÁCTICA #1
 
 Nombre: Rodríguez Muñoz José Luis
 
