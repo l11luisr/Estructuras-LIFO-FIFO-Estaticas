@@ -2,7 +2,7 @@
 					UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
 				      FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
 					   ALGORITMOS Y ESTRUCTURA DE DATOS
-                                                       2020 - 1
+                                                     2020 - 1
 						     PRÁCTICA #1
 
 Nombre: Rodríguez Muñoz José Luis
